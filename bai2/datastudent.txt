@@ -1,0 +1,10 @@
+21130201;Tran Thi Mai;09/12/1998;Ha Noi
+21140527;Le Van An;02/05/2001;Ho Chi Minh City
+21120714;Pham Thanh Nhan;12/07/1999;Hue
+21111202;Nguyen Thi Kim Dung;02/11/2000;Da Nang
+21100505;Tran Van Nam;05/05/1997;Can Tho
+21110908;Nguyen Thi Bich Ngoc;08/09/2001;Hai Phong
+21121231;Le Thanh Dat;31/12/1998;Hai Duong
+21130615;Tran Van Phuc;15/06/2000;Thanh Hoa
+21140111;Nguyen Thi Huong;11/01/1996;Bac Ninh
+21120202;Pham Thi Thuy;02/02/2002;Ninh Binh
